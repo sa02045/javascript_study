@@ -1,6 +1,6 @@
 # Vanila JS
 
-Vanila JS를 이용해 다양한 미니프로젝트를 연습한 Repository입니다.
+Vanila JS를 이용해 다양한 미니프로젝트를 연습한 Repository입니다. 
 
 Vanila JS란?
 - 어떠한 라이브러리나 프레임워크를 쓰지 않는 자바스크립트입니다!
@@ -24,6 +24,7 @@ Vanila JS란?
 3. 문자열변수 hexColor에 하나 씩 더해줍니다.
 4. background color를 hexColor로 바꿔줍니다
 
+[출처] https://www.youtube.com/watch?v=c5SIG7Ie0dM
 
 ## 2.Counter
 ### 구현화면
@@ -40,6 +41,7 @@ Vanila JS란?
 2. 각 버튼이 클릭되면 "감소버튼"인지, "증가버튼"인지, "리셋버튼"인지 판단한 후
 3. 숫자변수 count를 변화시킨후 dom의 value 값에 적용합니다.
 
+[출처] https://www.youtube.com/watch?v=c5SIG7Ie0dM
 ## 3.Video-project
 ### 구현화면
 ![video-project-1](https://user-images.githubusercontent.com/50866506/102099768-ffdc9100-3e6b-11eb-9860-d4344f396789.JPG)
@@ -55,3 +57,5 @@ Vanila JS란?
 ![video-app-js](https://user-images.githubusercontent.com/50866506/102099766-feab6400-3e6b-11eb-9c60-2cf0414f807f.JPG)
 
 1. dom으로부터 video를 받아 autoplay 자동재생을 true로 , loop 반복재생을 true롤 설정하였습니다.
+   
+[출처] https://www.youtube.com/watch?v=c5SIG7Ie0dM
